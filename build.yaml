@@ -14,6 +14,6 @@
 ---
 include:
   - board: bluemicro840_v1
-    shield: kyria_rev1_left
+    shield: kyria_left
   - board: bluemicro840_v1
-    shield: kyria_rev1_right
+    shield: kyria_right
